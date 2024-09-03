@@ -1,2 +1,2 @@
-# Dreamy-Coffe-Website-Project-
-It is an individual assignment that provides an opportunity to practice again techniques and skills involved in designing webpages using HTML5 and CSS. JavaScript will be used to validate user input data before they are submitted to the server for processing. Moreover, JavaScript will be used to add more interactivity to the webpages.
+# Some information about Dreamy Coffe Website Project
+[DreamCoffee.pdf](https://github.com/user-attachments/files/16850532/DreamCoffee.pdf)

@@ -1,0 +1,201 @@
+/*The import section below is used to get the font.*/
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,700;1,400&display=swap');
+
+
+
+/*The :root selector matches the document's root element.*/
+/*Can be reused later*/
+/*rem is a unit type in css.*/
+:root {
+    --main-color: #443;
+    --border-radius: 95% 4% 97% 5%/4% 94% 3% 95%;
+    --border: .2rem solid var(--main-color);
+    --border-hover: .2rem dashed var(--main-color);
+}
+
+
+
+
+/* Selects all elements*/
+/*transition allows you to change property values smoothly, over a given duration.*/
+* {
+    font-family: 'PT Sans', sans-serif;
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    outline: none; 
+    border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 7rem;
+    scroll-behavior: smooth;
+}
+
+section, label {
+    padding: 2rem 9%;
+}
+
+
+
+/*The -webkit-text-stroke property specifies the width and color of strokes for text characters.*/
+/*var() is used to reuse things in :root.*/
+.heading {
+    margin-top: 100px;
+    font-size: 9rem;
+    text-transform: uppercase;
+    color: transparent;
+    -webkit-text-stroke: .05rem var(--main-color); 
+    letter-spacing: .2rem;
+    text-align: center;
+    pointer-events: none;
+    position: relative;
+}
+
+/*transform property allows you to rotate, scale, move, skew, etc., elements.*/
+/*The translate() method moves an element from its current position*/
+.heading span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    color: var(--main-color);
+    font-size: 3rem;
+}
+
+
+
+.btn {
+    display: inline-block;
+    padding: .9rem 1.5rem;
+    border-radius: var(--border-radius);
+    color: var(--main-color);
+    background: none;
+    border: var(--border);
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+}
+
+.header {
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+    background: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+    padding: 2rem 9%;
+}
+
+.header .logo { 
+    color: var(--main-color);
+    font-size: 2.3rem;
+}
+
+
+.header .navbar a {
+    margin: 0 1rem;
+    font-size: 1.7rem;
+    color: var(--main-color);
+}
+
+.header .btn {
+    margin-top: 0;
+}
+
+#menu-btn {
+    font-size: 3rem;
+    color: var(--main-color);
+    cursor: pointer;
+    display: none;
+}
+
+.order {
+    background: url(../images/home1.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.order form {
+    margin: 0 auto 2rem auto;
+    max-width: 60rem;
+    padding: 3rem;
+    border: var(--border);
+}
+
+.order form .box {
+    width: 100%;
+    padding: 1rem 1.2rem;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    background: none;
+    text-transform: none;
+    color: var(--main-color);
+    margin: .7rem 0;
+    border: var(--border);
+}
+
+
+.order form .radio {
+    width: 100%;
+    position: relative;
+    right: -20px;
+}
+
+
+.order form .check {
+    position: relative;
+    top: -20px;
+}
+
+/*Highlight the item coresponding to the current webpage.*/
+nav a:hover,
+nav a.active {
+    text-decoration: underline var(--border-hover);
+}
+
+
+.show {
+    display: none;                /*make it disappear with css and use java to make it appear.*/
+    width: 100%;
+    padding: 1rem 1.2rem;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    background: none;
+    text-transform: none;
+    color: var(--main-color);
+    margin: .7rem 0;
+    border: var(--border);
+}
+
+.method {
+    display: none;                 /*make it disappear with css and use java to make it appear.*/
+    width: 100%;
+    padding: 1rem 1.2rem;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+    background: none;
+    text-transform: none;
+    color: var(--main-color);
+    margin: .7rem 0;
+    border: var(--border);
+}
+
+
+
+
+
+
+
+
+
+

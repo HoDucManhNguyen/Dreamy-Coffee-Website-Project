@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Dreamy Cafe</title>
+
+	<!--Link to file register.css.-->
+	<link rel="stylesheet" type="text/css" href="css/register.css">
+
+</head>
+<body id="register">
+
+<header class="header">
+	
+	<div id="menu-btn" ></div>
+
+	<a href="#" class="logo">dreamy coffee</a>
+
+	<!--#history, #menu, #location,... are used to jump to the section with the corresponding id.-->
+	<nav class="navbar">
+		<a data-active="home" href="index.html">home</a>
+		<a data-active="register" href="#">sign up</a>
+		<a data-active="order" href="order.html">order</a>
+	</nav>
+
+	<a href="#" class="btn">open 24/7</a>
+</header>
+
+
+<section class="register" id="register">
+
+	<h1 class="heading"> sign up <span>now</span> </h1>
+
+	<form action="http://mercury.swin.edu.au/it000000/cos10005/regtest.php" method="post" id="form">
+
+		<label class="heading"> <span>Your Information </span> </label>
+		
+		<!--your name-->
+		<input type="text" placeholder="your name:" class="box" id="name" name="name">
+
+		<!--username-->
+		<input type="text" placeholder="username:" class="box" id="username" name="username">
+
+		<!--password-->
+		<input type="password" placeholder="password:" class="box" id="pwd" name="password">
+
+		<!--email-->
+		<input type="text" placeholder="your email:" class="box" id="email" name="email">
+		
+		<!--gender-->
+		<div class="box">Your Gender:
+		    <input type="radio" id="male" name="gender" value="male" class="radio">
+			<label for="male" class="gender">male</label>
+			<input type="radio" id="female" name="gender" value="female" class="radio">
+			<label for="female" class="gender">female</label>
+			<input type="radio" id="other" name="gender" value="other" class="radio">
+			<label for="other" class="gender">other</label>
+		</div><br>
+
+		<!--choose your favorite coffee-->
+		<label class="box" for="coffee">Choose your favorite coffee:
+		<select name="favorite_coffee" id="coffee">
+			<option value="all">I love all</option>
+		    <option value="cappuccino">cappuccino</option>
+		    <option value="americano">americano</opamericanotion>
+		    <option value="espresso">espresso</option>
+		    <option value="latte">latte</option>
+		    <option value="caramel">caramel</option>
+		    <option value="mocha">mocha</option>
+		</select>
+		</label>
+	    
+	    <!--submit button-->
+	    </br></br>
+		<input type="submit" value="submit" class="btn">
+	</form>
+	
+</section>
+
+
+<!--Link to file register.js-->
+<script src="js/register.js" ></script>
+
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Dreamy Cafe</title>
+
+	<!--Link to file order.css.-->
+	<link rel="stylesheet" type="text/css" href="css/order.css">
+
+</head>
+<body id="order">
+
+<header class="header">
+	
+	<div id="menu-btn" ></div>
+
+	<a href="#" class="logo">dreamy coffee</a>
+
+	<!--#history, #menu, #location,... are used to jump to the section with the corresponding id.-->
+	<nav class="navbar">
+		<a data-active="home" href="index.html">home</a>
+		<a data-active="register" href="register.html">sign up</a>
+		<a data-active="order" href="#">order</a>
+	</nav>
+
+	<a href="#" class="btn">open 24/7</a>
+</header>
+
+<section class="order" id="order">
+
+	<h1 class="heading"> order <span>now</span> </h1>
+
+	<form action="http://mercury.swin.edu.au/it000000/cos10005/regtest.php" method="post" id="form">
+
+		<label class="heading"> <span>delivery information</span> </label>
+
+		<!--Select an option.-->
+		<div class="box">Select an option:
+		    <input type="radio" id="pickup" name="option" value="pickup" class="radio" onclick="hideAddress()">
+			<label for="pickup" class="check">Pick Up</label>
+			<input type="radio" id="delivery" name="option" value="delivery" class="radio" onclick="showAddress()">
+			<label for="delivery" class="check">Delivery</label>
+		</div><br>
+
+		<div class="show" id="show"> 
+		
+			<!--Delivery address.-->
+			<input type="text" placeholder="delivery address:" class="box" id="delivery_address" name="delivery_address">
+
+			<!--Check same as delivery address or not.-->
+			<label for="checkbox"> billing address same as delivery address</label>
+			<input type="checkbox" id="same_address" name="same_address_or_not" value="same_address" onclick="autoFill()">
+		</div>
+
+		<!--Billing address.-->
+		<input type="text" placeholder="billing address:" class="box" name="billing_address" id="billing_address">
+
+		<!--Post code-->
+		<input type="text" placeholder="post code:" class="box" name="postcode" id="postcode" maxlength="4">
+
+		<!--Contact number.-->
+		<input type="text" placeholder="contact number:" class="box" name="contact_num" id="contact_num">
+
+		<!--Email.-->
+		<input type="text" placeholder="your email:" class="box" id="email" name="email">
+		
+		<!--Choose an payment method.-->
+		<div class="box">Choose an payment method:
+		    <input type="radio" id="pay_pickup" name="payment_methods" value="pay_pickup" class="radio" onclick="hidePay()">
+			<label for="pay_pickup" class="check"> pay on pick up</label>
+			<input type="radio" id="pay_online" name="payment_methods" value="pay_online" class="radio" onclick="showPay()">
+			<label for="pay_online" class="check">pay online</label>
+		</div><br>
+
+		<!--Select the card type to pay.-->
+		<div class="method" id="card_info">Please choose your card:
+		    
+		    <input type="radio" id="visa" name="card" value="visa" class="radio">
+			<label for="visa" class="check">Visa</label>
+			<input type="radio" id="master" name="card" value="master" class="radio">
+			<label for="master" class="check">Master Card</label>
+			<input type="radio" id="american" name="card" value="american" class="radio">
+			<label for="american" class="check">American Express</label>
+
+
+			<!--Credit card number.-->
+			<input type="text" placeholder="credit card number:" class="box" id="credit" name="credit_card_number">
+		</div>	
+	    
+	    <!--order button.-->
+		<input type="submit" value="order" class="btn">
+	</form>
+	
+</section>
+
+
+
+<!--Link to file order.js.-->
+<script src="js/order.js"></script>
+</body>
+</html>

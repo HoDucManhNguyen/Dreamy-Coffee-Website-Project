@@ -59,19 +59,41 @@ The three webpages must be developed using HTML5. All pages must ***not contain 
 selected)
 
 
-## Help
+#### 2.2: CSS Files
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+At least one CSS file is to be created to style all three HTML pages. Use any CSS properties you deem necessary and appropriate for the presentation. You are encouraged to be creative in your design. You will mark not only on the use of CSS properties and selectors but also on how professional, beautiful and creative your webpages look.
+
+#### 2.3: JavaScript File
+
+A JavaScript file must be created for the registration and the order pages to validate the input data before forms are submitted to the server for processing. The JavaScript must
+
+* check that none of the required input fields are blank.
+* check that the password is at least 7-character long;
+* check that the postcode is 4-digit.
+* show an alert or inline error messages to display all the errors in the input fields;
+* allow the form to be submitted only if all the input data are valid.
+
+### Task 3: Website Enhancement
+
+#### 3.1 Features
+
+Implement the following 3 features using appropriate HTML, CSS and JavaScript:
+
+ + Highlight the menu item in the navigator corresponding to the current webpage.
+ + In page order.html, create a checkbox with label “same as delivery address” somewhere appropriate near the fields for billing address. When this checkbox is \ checked, the fields for billing address will be filled with the delivery address automatically. If the delivery address is not completed when this checkbox is checked, display an alert or inline message: “Please enter your delivery address first”.
+ + Allow users to choose from three types of credit card: Visa, MasterCard and American Express. Based on the type of credit card, limit the length of the credit card number, 16 digits for Visa and MasterCard, 15 digits for American Express.
+   
+#### 3.2 Features Page
+
+Create a fourth page named features.html and incorporate it into the navigator. On this webpage, list the features that you have implemented and provides hyperlinks to indicate where those features are implemented.
+
+
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Name: Manh Nguyen
+Email: manhnhd.vn@gmail.com
+LinkedIn: https://www.linkedin.com/in/harrryy/
 
 ## Version History
 

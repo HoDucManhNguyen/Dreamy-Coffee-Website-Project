@@ -19,6 +19,15 @@ The directory structure shown in Figure 1 is to be created.
 
 <img width="350" alt="Screenshot 2024-09-04 at 12 26 05 PM" src="https://github.com/user-attachments/assets/0408dd5f-0136-4fa8-956e-5f05a3c086c2">
 
+Additional files may be added depending on your own design.
+
+#### 1.2 Website Structure
+
+Choose your own webpage structure. A fully functional navigator must be provided on each webpage. Users should be able to access all 3 webpages using the navigator.
+
+#### 1.3 Webpage Layout
+
+You need to design an appropriate webpage layout for Dreamy Cafe. HTML5 structural elements must be used (e.g. <header>, <nav>). You are free to use other structural elements, e.g., <div>.
 
 ### Executing program
 

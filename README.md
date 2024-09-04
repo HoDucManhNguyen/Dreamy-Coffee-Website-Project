@@ -27,15 +27,15 @@ Choose your own webpage structure. A fully functional navigator must be provided
 
 #### 1.3 Webpage Layout
 
-You need to design an appropriate webpage layout for Dreamy Cafe. HTML5 structural elements must be used (e.g. <header>, <nav>). You are free to use other structural elements, e.g., <div>.
+You need to design an appropriate webpage layout for Dreamy Cafe. HTML5 structural elements must be used. You are free to use other structural elements.
 
-### Executing program
+### Task 2: Website Development
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+#### 2.1 HTML 3 Webpages
+
+The three webpages must be developed using HTML5. All pages must not contain any deprecated elements/attributes. The content requirements for each webpage are as follows:
+
+
 
 ## Help
 

@@ -89,7 +89,7 @@ Create a fourth page named features.html and incorporate it into the navigator. 
 
 ## Authors
 
-Name: Manh Nguyen </br>
+Name: Manh Nguyen (Harry )</br>
 Email: manhnhd.vn@gmail.com </br>
 LinkedIn: https://www.linkedin.com/in/harrryy/
 

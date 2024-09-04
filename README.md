@@ -33,7 +33,7 @@ You need to design an appropriate webpage layout for Dreamy Cafe. HTML5 structur
 
 #### 2.1 HTML 3 Webpages
 
-The three webpages must be developed using HTML5. All pages must not contain any deprecated elements/attributes. The content requirements for each webpage are as follows:
+The three webpages must be developed using HTML5. All pages must ***not contain any deprecated elements/attributes***. The content requirements for each webpage are as follows:
 
 
 

@@ -13,10 +13,12 @@ The assignment requires that you develop a website for Dreamy Cafe, a coffee sho
 After several meetings with the Ms Dreamy, it is agreed that 3 webpages will be developed, the home page, the registration page and the order page.
 
 
-### Installing
+#### 1.1 Folder Structure
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+The directory structure shown in Figure 1 is to be created.
+
+<img width="350" alt="Screenshot 2024-09-04 at 12 26 05 PM" src="https://github.com/user-attachments/assets/0408dd5f-0136-4fa8-956e-5f05a3c086c2">
+
 
 ### Executing program
 

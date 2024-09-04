@@ -37,6 +37,16 @@ The three webpages must be developed using HTML5. All pages must ***not contain 
 
 + Page *index.html* is the homepage of the website. It should provide introductory information about Dreamy Cafe, its history, menu, location, available types of coffees, etc. Feel free to refer to real-world coffee shops websites for example. Information about at least three types of coffees must be provided, with at least three original or explicitly referenced images.
 
++ Page registration.html is for users to register. A form must be provided, which contains different input elements that allow users to enter registration information, e.g., username, password, gender, email, favourite coffee, etc. The following input elements must be used:
+
+  * label
+  * textbox
+  * password
+  * radiobutton
+  * checkbox
+  * selectlist
+  * submitbutton
+
 ## Help
 
 Any advise for common problems or issues.

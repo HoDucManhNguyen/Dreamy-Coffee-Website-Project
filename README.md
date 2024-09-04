@@ -87,12 +87,6 @@ Implement the following 3 features using appropriate HTML, CSS and JavaScript:
 
 Create a fourth page named features.html and incorporate it into the navigator. On this webpage, list the features that you have implemented and provides hyperlinks to indicate where those features are implemented.
 
-## Authors
-
-Name: Manh Nguyen (Harry) </br>
-Email: manhnhd.vn@gmail.com </br>
-LinkedIn: https://www.linkedin.com/in/harrryy/
-
 ## Demo Picture of Product
 
 <img width="1280" alt="Screenshot 2024-09-04 at 12 46 36 PM" src="https://github.com/user-attachments/assets/52ba2be8-3e23-45fa-98c5-59086fef9652">
@@ -106,3 +100,10 @@ LinkedIn: https://www.linkedin.com/in/harrryy/
 <img width="1280" alt="Screenshot 2024-09-04 at 12 48 05 PM" src="https://github.com/user-attachments/assets/b167a64c-4d2e-4a35-904b-1e8fea5cae53">
 
 <img width="1280" alt="Screenshot 2024-09-04 at 12 48 24 PM" src="https://github.com/user-attachments/assets/1a6ab111-6cb6-4bb7-90ea-5073cfa69d00">
+
+
+## Authors
+
+Name: Manh Nguyen (Harry) </br>
+Email: manhnhd.vn@gmail.com </br>
+LinkedIn: https://www.linkedin.com/in/harrryy/

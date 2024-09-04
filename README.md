@@ -35,7 +35,7 @@ You need to design an appropriate webpage layout for Dreamy Cafe. HTML5 structur
 
 The three webpages must be developed using HTML5. All pages must ***not contain any deprecated elements/attributes***. The content requirements for each webpage are as follows:
 
-
++ Page *index.html* is the homepage of the website. It should provide introductory information about Dreamy Cafe, its history, menu, location, available types of coffees, etc. Feel free to refer to real-world coffee shops websites for example. Information about at least three types of coffees must be provided, with at least three original or explicitly referenced images.
 
 ## Help
 

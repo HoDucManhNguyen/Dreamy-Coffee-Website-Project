@@ -46,6 +46,18 @@ The three webpages must be developed using HTML5. All pages must ***not contain 
   * checkbox
   * selectlist
   * submitbutton
+    
++ Page *order.html* is for users to place orders. A form must be provided to allow users to enter the following data to place an order:
+
+  * Deliveryorpickup
+  * Deliveryaddress(onlyifdeliveryisselected)
+  * Billingaddress
+  * Contactnumber
+  * Emailforreceipt
+  * Payonpickuporonline
+  * Credit card information (only if pay online is
+selected)
+
 
 ## Help
 

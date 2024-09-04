@@ -87,31 +87,22 @@ Implement the following 3 features using appropriate HTML, CSS and JavaScript:
 
 Create a fourth page named features.html and incorporate it into the navigator. On this webpage, list the features that you have implemented and provides hyperlinks to indicate where those features are implemented.
 
-
-
 ## Authors
 
-Name: Manh Nguyen
-Email: manhnhd.vn@gmail.com
+Name: Manh Nguyen </br>
+Email: manhnhd.vn@gmail.com </br>
 LinkedIn: https://www.linkedin.com/in/harrryy/
 
-## Version History
+## Demo Picture of Product
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+<img width="1280" alt="Screenshot 2024-09-04 at 12 46 36 PM" src="https://github.com/user-attachments/assets/52ba2be8-3e23-45fa-98c5-59086fef9652">
 
-## License
+<img width="1280" alt="Screenshot 2024-09-04 at 12 47 00 PM" src="https://github.com/user-attachments/assets/98e3f851-bd7e-4f5b-97e6-c18a942c27f1">
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+<img width="1279" alt="Screenshot 2024-09-04 at 12 47 19 PM" src="https://github.com/user-attachments/assets/ac725995-144c-4747-9a62-091fd17ad7b3">
 
-## Acknowledgments
+<img width="1280" alt="Screenshot 2024-09-04 at 12 47 36 PM" src="https://github.com/user-attachments/assets/ee871c6f-2fb3-4e6e-984e-4d30db955915">
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+<img width="1280" alt="Screenshot 2024-09-04 at 12 48 05 PM" src="https://github.com/user-attachments/assets/b167a64c-4d2e-4a35-904b-1e8fea5cae53">
+
+<img width="1280" alt="Screenshot 2024-09-04 at 12 48 24 PM" src="https://github.com/user-attachments/assets/1a6ab111-6cb6-4bb7-90ea-5073cfa69d00">

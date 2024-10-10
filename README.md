@@ -102,7 +102,7 @@ Create a fourth page named features.html and incorporate it into the navigator. 
 <img width="1280" alt="Screenshot 2024-09-04 at 12 48 24 PM" src="https://github.com/user-attachments/assets/1a6ab111-6cb6-4bb7-90ea-5073cfa69d00">
 
 ## Link Demo
-https://hoducmanhnguyen.github.io/Dreamy-Coffee-Website-Project/![image](https://github.com/user-attachments/assets/abd0eb0d-21f0-4090-b255-48e9f022534d)
+[https://hoducmanhnguyen.github.io/Dreamy-Coffee-Website-Project/](https://hoducmanhnguyen.github.io/Dreamy-Coffee-Website-Project/)
 
 
 ## Authors

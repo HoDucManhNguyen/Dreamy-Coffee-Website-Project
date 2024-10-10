@@ -5,6 +5,7 @@ It is an individual assignment that provides an opportunity to practice again te
 ## Table of Contents
 
 - [Requirements and Specifications](#requirements-and-Specifications)
+- [Getting Started](#Getting-Started)
 
 ## Requirements and Specifications
 

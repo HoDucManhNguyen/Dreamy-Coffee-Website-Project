@@ -6,6 +6,9 @@ It is an individual assignment that provides an opportunity to practice again te
 
 - [Requirements and Specifications](#requirements-and-Specifications)
 - [Getting Started](#Getting-Started)
+- [Demo Picture of Product](#Demo-Picture-of-Product)
+- [Link Demo](#Link-Demo)
+- [Authors](#Authors)
 
 ## Requirements and Specifications
 

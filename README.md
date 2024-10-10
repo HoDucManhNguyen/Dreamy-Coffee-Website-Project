@@ -2,6 +2,10 @@
 
 It is an individual assignment that provides an opportunity to practice again techniques and skills involved in designing webpages using HTML5 and CSS. JavaScript will be used to validate user input data before they are submitted to the server for processing. Moreover, JavaScript will be used to add more interactivity to the webpages.
 
+## Table of Contents
+
+- [Requirements and Specifications](#requirements-and-Specifications)
+
 ## Requirements and Specifications
 
 The assignment requires that you develop a website for Dreamy Cafe, a coffee shop. The director of Dreamy Cafe, Ms Dreamy, is interested in developing a website that allows users to register and place orders for coffee online.

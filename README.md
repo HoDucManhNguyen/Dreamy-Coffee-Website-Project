@@ -91,4 +91,4 @@ Dreamy-Coffee-Website-Project/
 
 **Manh Nguyen (Harry)**\
 📧 Email: [manhnhd.vn@gmail.com](mailto\:manhnhd.vn@gmail.com)\
-🔗 LinkedIn: [https://www.linkedin.com/in/harrryy/](https://www.linkedin.com/in/harrryy/)
+🔗 LinkedIn: [Manh Nguyen](https://www.linkedin.com/in/harrryy/)

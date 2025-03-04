@@ -19,7 +19,6 @@ In the modern commercial landscape, small and mid-sized enterprises—including 
 - [Technologies Deployed](#technologies-deployed)
 - [Implementation and Deployment](#implementation-and-deployment)
 - [Architectural Framework](#architectural-framework)
-- [Demonstrative Screenshots](#demonstrative-screenshots)
 - [Live System Access](#live-system-access)
 - [Contributor Information](#contributor-information)
 
@@ -79,7 +78,6 @@ Dreamy-Coffee-Website-Project/
 │── README.md         # Project Documentation
 ```
 
-## Demonstrative Screenshots
 
 
 

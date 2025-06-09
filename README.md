@@ -85,7 +85,7 @@ Dreamy-Coffee-Website-Project/
 
 🔗 [Dreamy Coffee Website](https://hoducmanhnguyen.github.io/Dreamy-Coffee-Website-Project/)
 
-## Contributor Information
+## Author
 
 **Manh Nguyen**\
 📧 Email: [manhnhd.vn@gmail.com](mailto\:manhnhd.vn@gmail.com)\

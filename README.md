@@ -87,6 +87,6 @@ Dreamy-Coffee-Website-Project/
 
 ## Contributor Information
 
-**Manh Nguyen (Harry)**\
+**Manh Nguyen**\
 📧 Email: [manhnhd.vn@gmail.com](mailto\:manhnhd.vn@gmail.com)\
 🔗 LinkedIn: [Manh Nguyen](https://www.linkedin.com/in/harrryy/)
